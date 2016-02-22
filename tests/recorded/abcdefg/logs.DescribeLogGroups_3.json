@@ -1,0 +1,18 @@
+{
+    "status_code": 200, 
+    "data": {
+        "logGroups": [
+            {
+                "arn": "arn:aws:logs:eu-west-1:230477879165:log-group:G:*", 
+                "metricFilterCount": 0, 
+                "storedBytes": 148426896, 
+                "creationTime": 1445286351248, 
+                "logGroupName": "G"
+            }
+        ], 
+        "ResponseMetadata": {
+            "RequestId": "1bbee161-d581-11e5-b28c-bb1b7331dcc8", 
+            "HTTPStatusCode": 200
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "status_code": 200, 
+    "data": {
+        "logGroups": [
+            {
+                "arn": "arn:aws:logs:eu-west-1:230477879165:log-group:D:*", 
+                "metricFilterCount": 0, 
+                "storedBytes": 148426896, 
+                "creationTime": 1445286351248, 
+                "logGroupName": "D"
+            }, 
+            {
+                "arn": "arn:aws:logs:eu-west-1:230477879165:log-group:E:*", 
+                "metricFilterCount": 0, 
+                "storedBytes": 1702, 
+                "creationTime": 1445376370791, 
+                "logGroupName": "E"
+            }, 
+            {
+                "arn": "arn:aws:logs:eu-west-1:230477879165:log-group:F:*", 
+                "metricFilterCount": 0, 
+                "storedBytes": 1702, 
+                "creationTime": 1445376370791, 
+                "logGroupName": "F"
+            }
+        ], 
+        "nextToken": "2",
+        "ResponseMetadata": {
+            "RequestId": "1bbee161-d581-11e5-b28c-bb1b7331dcc7", 
+            "HTTPStatusCode": 200
+        }
+    }
+}
